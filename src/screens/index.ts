@@ -1,1 +1,1 @@
-export * from './home/Home';
+export { default as HomeScreen } from './home/Home';
